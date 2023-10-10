@@ -15,6 +15,8 @@ Hello, I´m Uriel and I´m a developer<br><br>Actualy i am studing Lic. in Commp
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Uriel-Gz&theme=react&hide_border=true&include_all_commits=false&count_private=true">
+</p>
+<p align="center">
 <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uriel-Gz&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact">
 </p>
 
